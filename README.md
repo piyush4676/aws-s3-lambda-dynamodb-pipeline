@@ -7,7 +7,7 @@ Whenever a CSV file is uploaded to the S3 bucket, a Lambda function automaticall
 ---
 
 ### ⚙️ Architecture
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](architecture.png.drawio.png)
 
 **Flow:**
 1. File uploaded to **Amazon S3**
